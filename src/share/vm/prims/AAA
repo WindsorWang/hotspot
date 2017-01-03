@@ -1,0 +1,1 @@
+HotSpot VM的对外接口，包括部分标准库的native部分和JVMTI实现
